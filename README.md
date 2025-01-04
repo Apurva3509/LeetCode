@@ -11,4 +11,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/Apurva3509/LeetCode/tree/master/1894-merge-strings-alternately) |
+## Array
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Apurva3509/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Apurva3509/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
