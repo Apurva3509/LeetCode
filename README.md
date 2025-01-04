@@ -23,4 +23,5 @@ My solved LeetCode questions :)
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Apurva3509/LeetCode/tree/master/0176-second-highest-salary) |
+| [1827-invalid-tweets](https://github.com/Apurva3509/LeetCode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
