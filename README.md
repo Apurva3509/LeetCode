@@ -15,6 +15,7 @@ My solved LeetCode questions :)
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Apurva3509/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/Apurva3509/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -24,4 +25,8 @@ My solved LeetCode questions :)
 | ------- |
 | [0176-second-highest-salary](https://github.com/Apurva3509/LeetCode/tree/master/0176-second-highest-salary) |
 | [1827-invalid-tweets](https://github.com/Apurva3509/LeetCode/tree/master/1827-invalid-tweets) |
+## Greedy
+|  |
+| ------- |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/Apurva3509/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 <!---LeetCode Topics End-->
