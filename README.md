@@ -6,6 +6,7 @@ My solved LeetCode questions :)
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Apurva3509/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1894-merge-strings-alternately](https://github.com/Apurva3509/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -14,6 +15,7 @@ My solved LeetCode questions :)
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Apurva3509/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0238-product-of-array-except-self](https://github.com/Apurva3509/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Apurva3509/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Prefix Sum
@@ -29,4 +31,16 @@ My solved LeetCode questions :)
 |  |
 | ------- |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Apurva3509/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Apurva3509/LeetCode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Apurva3509/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Apurva3509/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
