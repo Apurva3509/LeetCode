@@ -43,4 +43,20 @@ My solved LeetCode questions :)
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Apurva3509/LeetCode/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Apurva3509/LeetCode/tree/master/0146-lru-cache) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Apurva3509/LeetCode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Apurva3509/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Apurva3509/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
