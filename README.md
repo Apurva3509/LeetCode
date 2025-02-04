@@ -11,6 +11,7 @@ My solved LeetCode questions :)
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Apurva3509/LeetCode/tree/master/0242-valid-anagram) |
 | [1894-merge-strings-alternately](https://github.com/Apurva3509/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -53,6 +54,7 @@ My solved LeetCode questions :)
 | ------- |
 | [0146-lru-cache](https://github.com/Apurva3509/LeetCode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Apurva3509/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Apurva3509/LeetCode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -85,5 +87,6 @@ My solved LeetCode questions :)
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Apurva3509/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Apurva3509/LeetCode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Apurva3509/LeetCode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
