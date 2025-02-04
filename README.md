@@ -17,6 +17,7 @@ My solved LeetCode questions :)
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Apurva3509/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0200-number-of-islands](https://github.com/Apurva3509/LeetCode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Apurva3509/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Apurva3509/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/Apurva3509/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Apurva3509/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -51,6 +52,7 @@ My solved LeetCode questions :)
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Apurva3509/LeetCode/tree/master/0146-lru-cache) |
+| [0217-contains-duplicate](https://github.com/Apurva3509/LeetCode/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -82,5 +84,6 @@ My solved LeetCode questions :)
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Apurva3509/LeetCode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/Apurva3509/LeetCode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
