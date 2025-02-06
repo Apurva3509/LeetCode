@@ -17,6 +17,7 @@ My solved LeetCode questions :)
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Apurva3509/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Apurva3509/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Apurva3509/LeetCode/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/Apurva3509/LeetCode/tree/master/0200-number-of-islands) |
@@ -55,6 +56,7 @@ My solved LeetCode questions :)
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Apurva3509/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Apurva3509/LeetCode/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/Apurva3509/LeetCode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Apurva3509/LeetCode/tree/master/0217-contains-duplicate) |
@@ -87,6 +89,7 @@ My solved LeetCode questions :)
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Apurva3509/LeetCode/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/Apurva3509/LeetCode/tree/master/0200-number-of-islands) |
 ## Sorting
 |  |
