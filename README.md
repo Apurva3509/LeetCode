@@ -66,6 +66,7 @@ My solved LeetCode questions :)
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Apurva3509/LeetCode/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/Apurva3509/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -119,4 +120,8 @@ My solved LeetCode questions :)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Apurva3509/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Apurva3509/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
