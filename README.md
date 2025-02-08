@@ -13,6 +13,7 @@ My solved LeetCode questions :)
 | ------- |
 | [0049-group-anagrams](https://github.com/Apurva3509/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Apurva3509/LeetCode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/Apurva3509/LeetCode/tree/master/0412-fizz-buzz) |
 | [1894-merge-strings-alternately](https://github.com/Apurva3509/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
@@ -124,4 +125,12 @@ My solved LeetCode questions :)
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Apurva3509/LeetCode/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Apurva3509/LeetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Apurva3509/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
