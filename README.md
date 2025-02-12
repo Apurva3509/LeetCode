@@ -11,6 +11,7 @@ My solved LeetCode questions :)
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Apurva3509/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Apurva3509/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Apurva3509/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Apurva3509/LeetCode/tree/master/0412-fizz-buzz) |
@@ -133,4 +134,8 @@ My solved LeetCode questions :)
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Apurva3509/LeetCode/tree/master/0412-fizz-buzz) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Apurva3509/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
