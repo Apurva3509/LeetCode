@@ -28,6 +28,7 @@ My solved LeetCode questions :)
 | [0347-top-k-frequent-elements](https://github.com/Apurva3509/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Apurva3509/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Apurva3509/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2058-concatenation-of-array](https://github.com/Apurva3509/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -134,6 +135,7 @@ My solved LeetCode questions :)
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Apurva3509/LeetCode/tree/master/0412-fizz-buzz) |
+| [2058-concatenation-of-array](https://github.com/Apurva3509/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Trie
 |  |
 | ------- |
