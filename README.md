@@ -7,6 +7,7 @@ My solved LeetCode questions :)
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Apurva3509/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/Apurva3509/LeetCode/tree/master/0189-rotate-array) |
 | [1894-merge-strings-alternately](https://github.com/Apurva3509/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -22,6 +23,7 @@ My solved LeetCode questions :)
 | [0036-valid-sudoku](https://github.com/Apurva3509/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Apurva3509/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Apurva3509/LeetCode/tree/master/0049-group-anagrams) |
+| [0189-rotate-array](https://github.com/Apurva3509/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Apurva3509/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Apurva3509/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Apurva3509/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -130,6 +132,7 @@ My solved LeetCode questions :)
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Apurva3509/LeetCode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Apurva3509/LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
