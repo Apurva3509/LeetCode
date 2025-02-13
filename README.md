@@ -6,6 +6,7 @@ My solved LeetCode questions :)
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Apurva3509/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Apurva3509/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Apurva3509/LeetCode/tree/master/0189-rotate-array) |
 | [1894-merge-strings-alternately](https://github.com/Apurva3509/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -20,6 +21,7 @@ My solved LeetCode questions :)
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Apurva3509/LeetCode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Apurva3509/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Apurva3509/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Apurva3509/LeetCode/tree/master/0049-group-anagrams) |
@@ -43,6 +45,7 @@ My solved LeetCode questions :)
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Apurva3509/LeetCode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/Apurva3509/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Apurva3509/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Dynamic Programming
