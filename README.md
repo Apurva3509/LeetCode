@@ -25,6 +25,7 @@ My solved LeetCode questions :)
 | [0036-valid-sudoku](https://github.com/Apurva3509/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Apurva3509/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Apurva3509/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Apurva3509/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Apurva3509/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Apurva3509/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Apurva3509/LeetCode/tree/master/0200-number-of-islands) |
@@ -106,6 +107,7 @@ My solved LeetCode questions :)
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Apurva3509/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Apurva3509/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Apurva3509/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Apurva3509/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Apurva3509/LeetCode/tree/master/0242-valid-anagram) |
