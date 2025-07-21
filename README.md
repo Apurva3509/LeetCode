@@ -17,6 +17,7 @@ My solved LeetCode questions :)
 | [0049-group-anagrams](https://github.com/Apurva3509/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Apurva3509/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Apurva3509/LeetCode/tree/master/0412-fizz-buzz) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Apurva3509/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/Apurva3509/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
