@@ -1,9 +1,5 @@
-class Solution(object):
-    def makeFancyString(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
+class Solution:
+    def makeFancyString(self, s: str) -> str:
         if len(s) < 3:
             return s
         
