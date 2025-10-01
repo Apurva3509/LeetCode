@@ -37,6 +37,7 @@ My solved LeetCode questions :)
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Apurva3509/LeetCode/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2058-concatenation-of-array](https://github.com/Apurva3509/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Apurva3509/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Apurva3509/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -148,11 +149,13 @@ My solved LeetCode questions :)
 | ------- |
 | [0189-rotate-array](https://github.com/Apurva3509/LeetCode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Apurva3509/LeetCode/tree/master/0412-fizz-buzz) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Apurva3509/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Apurva3509/LeetCode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/Apurva3509/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Apurva3509/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -161,4 +164,8 @@ My solved LeetCode questions :)
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/Apurva3509/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Apurva3509/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
