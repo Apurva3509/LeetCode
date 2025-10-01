@@ -149,11 +149,13 @@ My solved LeetCode questions :)
 | ------- |
 | [0189-rotate-array](https://github.com/Apurva3509/LeetCode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Apurva3509/LeetCode/tree/master/0412-fizz-buzz) |
+| [1642-water-bottles](https://github.com/Apurva3509/LeetCode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Apurva3509/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Apurva3509/LeetCode/tree/master/0412-fizz-buzz) |
+| [1642-water-bottles](https://github.com/Apurva3509/LeetCode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/Apurva3509/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Apurva3509/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Trie
